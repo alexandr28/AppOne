@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">AppOne</string>
+    <string name="good_morning">Good morning</string>
+
+    <string name="register_title">Registrate</string>
+    <string name="register_or">Or</string>
+    <string name="register_button_account">Create Account</string>
+
+
+    <string name="register_form_title">Registrarse</string>
+    <string name="register_form_name">Name and lastname</string>
+    <string name="register_form_username">Username</string>
+    <string name="register_form_email">Email</string>
+    <string name="register_form_pass">Password</string>
+    <string name="register_form_pass_rewrite">Password Rewrite</string>
+    <string name="register_form_phone">Cellphone</string>
+    <string name="register_form_button_create">Create Account</string>
+    <string name="register_form_button__delete">Cancelar</string>
+
+
+    <string name="login_title">La Positiva</string>
+    <string name="login_user">Username</string>
+    <string name="login_pass">Password</string>
+    <string name="login_button_login">Log In</string>
+    <string name="login_button_register">Registrate</string>
+
+    <string name="main_welcome">Bienvenido</string>
+
+    <string name="header_name_user">Alexandr Campos</string>
+    <string name="menu_item_1">Principal</string>
+    <string name="menu_item_2">Cotizaciones</string>
+    <string name="menu_item_3">Reportes</string>
+    <string name="menu_item_4">Cuenta</string>
+    <string name="menu_item_5">Pendientes</string>
+
+    <string name="fragment_pendientes_title">Pendientes</string>
+    <string name="fragment_principal_title">Principal</string>
+    <string name="fragment_cuentas_title">Cuentas</string>
+    <string name="fragment_cotizaciones_title">Cotizaciones</string>
+    <string name="fragment_reportes_title">Reportes</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+</resources>
